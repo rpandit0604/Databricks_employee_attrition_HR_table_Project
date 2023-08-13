@@ -1,4 +1,4 @@
-Personal Project: Real Time end to end Databricks
+Personal Project: Real Time end to end Databricks using SparkSQL
 
 Domain: HumanResource
 
